@@ -1,0 +1,27 @@
+C:\baza\Desktop\portfolio\/src/main.tsx:
+	-> react-dom
+	-> react
+C:\baza\Desktop\portfolio\/tailwind.config.js:
+	-> tailwindcss-animate
+C:\baza\Desktop\portfolio\/eslint.config.js:
+	-> react
+C:\baza\Desktop\portfolio\/src/App.tsx:
+	-> react
+	-> react-router
+C:\baza\Desktop\portfolio\/src/lib/utils.ts:
+	-> clsx
+	-> tailwind-merge
+C:\baza\Desktop\portfolio\/src/components/ui/button.tsx:
+	-> @radix-ui/react-slot
+	-> react
+	-> class-variance-authority
+C:\baza\Desktop\portfolio\/src/pages/Home/Home.tsx:
+C:\baza\Desktop\portfolio\/src/vite-env.d.ts:
+C:\baza\Desktop\portfolio\/vite.config.ts:
+	-> react
+C:\baza\Desktop\portfolio\/postcss.config.js:
+C:\baza\Desktop\portfolio\/src/components/mode-toggle.tsx:
+	-> lucide-react
+	-> react
+C:\baza\Desktop\portfolio\/src/components/theme-provider.tsx:
+	-> react
